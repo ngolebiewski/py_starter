@@ -138,11 +138,4 @@ echo "✅ README.md added"
 # Final tip
 echo ""
 echo "🚀 Project setup complete!"
-
-echo "✨ To run this as a global command:"
-echo "1. Save this script as 'setup_python' (no extension)"
-echo "2. Move it to your ~/bin or /usr/local/bin:"
-echo "   sudo mv setup_python /usr/local/bin/"
-echo "3. Make it executable:"
-echo "   chmod +x /usr/local/bin/setup_python"
-echo "Now you can run 'setup_python' anywhere 🚀"
+echo "cd $PROJECTNAME" to start.
