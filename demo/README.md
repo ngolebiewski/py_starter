@@ -1,4 +1,6 @@
 # Python Quick Setup Workspace
+by Nick Golebiewski
+https://github.com/ngolebiewski/py_starter
 
 ## 📦 Virtual Environment
 Activate:
@@ -10,17 +12,3 @@ Deactivate:
 ```bash
 deactivate
 ```
-
-## 📄 How to Use This Script Globally
-
-1. Save this script as `setup_python` (no file extension)
-2. Move it to a directory in your PATH (e.g., `/usr/local/bin` or `~/bin`)
-   ```bash
-   sudo mv setup_python /usr/local/bin/
-   ```
-3. Make it executable:
-   ```bash
-   chmod +x /usr/local/bin/setup_python
-   ```
-
-Now you can run `setup_python` from anywhere in your terminal! 🚀

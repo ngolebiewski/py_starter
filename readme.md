@@ -1,5 +1,6 @@
 # Py Starter
 Author: Nick Golebiewski
+*Sometimes it is a drag to have to set up a virtual environment for Python, why not just do it in one line with a few extras?*
 
 ![terminal screenshot for script](screenshot.png)
 ## Bash script to do that repetetive Python start up. 
@@ -9,7 +10,8 @@ Author: Nick Golebiewski
 - Follow the instructions to set up the script globally, so all you have to do is type `setup_python` and all this stuff will be done like magic.
 
 - `chmod +x setup_python.sh` to make the script executable.
-- Run `./setup_python.sh`
+- Run `./setup_python.sh` add `-y` flag for defaults.
+  - DEFAULT: no git, no Pillow, no Requests with `./setup_python.sh -y`
 
 
 ## 📄 How to Use This Script Globally
