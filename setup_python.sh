@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Copyright (c) 2025 Nick Golebiewski https://github.com/ngolebiewski
+# Licensed under the MIT License
+
+
 # Step 1: Ask for project name
 read -p "📁 What is your project name? " PROJECT_NAME
 mkdir "$PROJECT_NAME"

@@ -29,3 +29,7 @@ Author: Nick Golebiewski
 
 Now you can run `setup_python` from anywhere in your terminal! 🚀
 
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
+
