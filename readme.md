@@ -21,7 +21,8 @@ Author: Nick Golebiewski
    ```bash
    sudo mv setup_python /usr/local/bin/
    ```
-3. Make it executable:
+3. Note that you'll be prompted to enter your password 
+4. Make it executable:
    ```bash
    chmod +x /usr/local/bin/setup_python
    ```
