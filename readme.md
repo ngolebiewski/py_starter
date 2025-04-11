@@ -14,12 +14,15 @@ Author: Nick Golebiewski
 
 ## 📄 How to Use This Script Globally
 
-1. Save this script as \`setup_python\` (no file extension)
-2. Move it to a directory in your PATH (e.g., \`/usr/local/bin\` or \`~/bin\`)
-   \`\`\`bash
+1. Save this script as `setup_python` (no file extension)
+2. Move it to a directory in your PATH (e.g., `/usr/local/bin` or `~/bin`)
+   ```bash
    sudo mv setup_python /usr/local/bin/
-   \`\`\`
+   ```
 3. Make it executable:
-   \`\`\`bash
+   ```bash
    chmod +x /usr/local/bin/setup_python
-   \`\`\`
+   ```
+
+Now you can run `setup_python` from anywhere in your terminal! 🚀
+
